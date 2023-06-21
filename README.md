@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-<p style='text-align: center;'>
+<p align="center">
 I work as a full time software developer, mainly in Javascript and Node.js projects. I have a degree in Information and Communication Technology Engineering from ITESS and I have knowledge in web development, object oriented programming and relational databases.
 </p>
 
