@@ -30,7 +30,7 @@ I work as a full time software developer, mainly in Javascript and Node.js proje
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Svelte, NodeJs, MySQL, MongoDB**
 
-- 🌱 I’m currently learning **NextJs, NestJs and Spring **
+- 🌱 I’m currently learning **NextJs, NestJs and Spring**
 
 - ☁️ I'm interested in cloud computing. So,I'm learning **AWS**
 
